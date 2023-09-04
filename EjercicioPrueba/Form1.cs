@@ -196,5 +196,10 @@ namespace Ejerciciodelidiota
             arrServicios.Clear();
             lstServiciosSeleccionados.Items.Clear();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Soy yo");
+        }
     }
 }
