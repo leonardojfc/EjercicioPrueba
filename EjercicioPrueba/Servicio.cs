@@ -36,7 +36,7 @@ namespace Ejerciciodelidiota
             switch(this.tipoServicio)
             {
                 case 1:
-                    montoParcial = 10;
+                    montoParcial = 20;
                     break;
                 case 2:
                     montoParcial = 15;
